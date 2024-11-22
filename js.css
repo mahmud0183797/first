@@ -1,4 +1,4 @@
-/* button {
+button {
    width: 111px;
    height: 55px;
    margin: 55px;
@@ -6,11 +6,10 @@
    background-color: rgb(216, 215, 215);
    box-shadow: 2px 2px 5px 5px rgb(234, 217, 185);
 }
-
 .anim-style{
    box-shadow: 2px 5px 5px 5px rgb(34, 34, 201);
    opacity: 0.5;
-} */
+}
 
 div{
    margin-top: 11px;
