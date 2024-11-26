@@ -1,0 +1,74 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+
+
+#adddiv{
+   width: 90px;
+margin-left: 400px;
+
+}
+
+#form{
+   width: 450px;
+   background-color: rgb(219, 233, 245);
+   padding: 11px;
+   border-radius: 5px;
+}
+
+
+#form h2{
+   text-align: center;
+   margin: 10px;
+
+}
+
+#form input, textarea{
+   width: 100%;
+   padding: 7px;
+   margin-bottom: 7px;
+   outline: none;
+}
+
+#form button{
+   width: 100%;
+   font-size: 15px;
+   padding: 12px;
+   border-radius: 32px;
+
+}
+
+h2{
+   text-align: center;
+   margin: 22px;
+}
+
+#Ourproduct{
+   background-color: rgb(239, 245, 245);
+   width: 250px;
+   border-radius: 22px;
+   padding: 11px;
+}
+
+#Ourproduct img{
+   max-width: 100%;
+}
+
+
+#Ourproduct h3,p,a{
+   text-align: center;
+}
+
+
+.button{
+   width: 100%;
+   font-size: medium;
+   margin: 11px;
+}
+
+#root{
+   display: flex;
+}
